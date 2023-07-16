@@ -1,0 +1,8 @@
+#Write a Python program to find whether a given number is even or odd,print out an appropriate message to the user.
+
+num=int(input("Enter number: "))
+
+if num%2==0:   #If we get 0 as a remainder then we can say that given number is even or else it is odd.
+    print("Number is even")
+else:
+    print("Number is odd")
