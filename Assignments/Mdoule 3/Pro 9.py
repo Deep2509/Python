@@ -1,4 +1,4 @@
-#Write a Python function that takes two lists and returns true if they have at least one common member.
+ #Write a Python function that takes two lists and returns true if they have at least one common member.
 
 def common_data(list1, list2):
      'result = False'
